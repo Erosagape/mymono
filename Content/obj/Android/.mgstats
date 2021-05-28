@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/playground/monotest/Content/Fonts/Score.spritefont","D:/playground/monotest/Content/bin/Android/Fonts/Score.xnb","FontDescriptionProcessor","SpriteFontContent",2008,37922,0.4889348
+"D:/playground/monotest/Content/Images/earth.png","D:/playground/monotest/Content/bin/Android/Images/earth.xnb","TextureProcessor","Texture2DContent",52980,133301,0.0334897
+"D:/playground/monotest/Content/Images/shuttle.png","D:/playground/monotest/Content/bin/Android/Images/shuttle.xnb","TextureProcessor","Texture2DContent",9105,125045,0.0057138
+"D:/playground/monotest/Content/Images/stars.jpg","D:/playground/monotest/Content/bin/Android/Images/stars.xnb","TextureProcessor","Texture2DContent",150614,1920085,0.0589318
