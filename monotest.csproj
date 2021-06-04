@@ -56,6 +56,9 @@
     <Compile Include="Activity1.cs" />
     <Compile Include="AnimatedSprite1.cs" />
     <Compile Include="Game1.cs" />
+    <Compile Include="Game2.cs" />
+    <Compile Include="Particle.cs" />
+    <Compile Include="ParticleEngine.cs" />
     <Compile Include="Resources\Resource.Designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

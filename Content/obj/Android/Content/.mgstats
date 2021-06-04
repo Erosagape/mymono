@@ -2,9 +2,12 @@ Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Siz
 "D:/playground/monotest/Content/Fonts/Score.spritefont","D:/playground/monotest/Content/bin/Android/Content/Fonts/Score.xnb","FontDescriptionProcessor","SpriteFontContent",2009,136226,0.2194577
 "D:/playground/monotest/Content/Images/arrow.png","D:/playground/monotest/Content/bin/Android/Content/Images/arrow.xnb","TextureProcessor","Texture2DContent",2024,16085,0.1346048
 "D:/playground/monotest/Content/Images/blue.png","D:/playground/monotest/Content/bin/Android/Content/Images/blue.xnb","TextureProcessor","Texture2DContent",13691,262229,0.1915619
+"D:/playground/monotest/Content/Images/circle.png","D:/playground/monotest/Content/bin/Android/Content/Images/circle.xnb","TextureProcessor","Texture2DContent",355,1109,0.152803
+"D:/playground/monotest/Content/Images/diamond.png","D:/playground/monotest/Content/bin/Android/Content/Images/diamond.xnb","TextureProcessor","Texture2DContent",388,1109,0.0017482
 "D:/playground/monotest/Content/Images/earth.png","D:/playground/monotest/Content/bin/Android/Content/Images/earth.xnb","TextureProcessor","Texture2DContent",52980,133301,0.1290726
 "D:/playground/monotest/Content/Images/green.png","D:/playground/monotest/Content/bin/Android/Content/Images/green.xnb","TextureProcessor","Texture2DContent",10885,262229,0.0111036
 "D:/playground/monotest/Content/Images/red.png","D:/playground/monotest/Content/bin/Android/Content/Images/red.xnb","TextureProcessor","Texture2DContent",13180,262229,0.0237384
 "D:/playground/monotest/Content/Images/shuttle.png","D:/playground/monotest/Content/bin/Android/Content/Images/shuttle.xnb","TextureProcessor","Texture2DContent",9105,125045,0.0147022
 "D:/playground/monotest/Content/Images/smiley.png","D:/playground/monotest/Content/bin/Android/Content/Images/smiley.xnb","TextureProcessor","Texture2DContent",40026,262229,0.1510868
+"D:/playground/monotest/Content/Images/star.png","D:/playground/monotest/Content/bin/Android/Content/Images/star.xnb","TextureProcessor","Texture2DContent",380,1045,0.0016603
 "D:/playground/monotest/Content/Images/stars.jpg","D:/playground/monotest/Content/bin/Android/Content/Images/stars.xnb","TextureProcessor","Texture2DContent",150614,1920085,0.0660055

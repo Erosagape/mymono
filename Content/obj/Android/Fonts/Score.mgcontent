@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <SourceFile>D:/playground/monotest/Content/Fonts/Score.spritefont</SourceFile>
-  <SourceTime>2020-08-10T23:17:28+07:00</SourceTime>
+  <SourceTime>2021-05-28T14:45:43.4215245+07:00</SourceTime>
   <DestFile>D:/playground/monotest/Content/bin/Android/Fonts/Score.xnb</DestFile>
-  <DestTime>2021-05-28T14:33:31.0823754+07:00</DestTime>
+  <DestTime>2021-06-04T16:44:47.8217434+07:00</DestTime>
   <Importer>FontDescriptionImporter</Importer>
   <ImporterTime>2020-08-10T23:17:54+07:00</ImporterTime>
   <Processor>FontDescriptionProcessor</Processor>

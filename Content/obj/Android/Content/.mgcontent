@@ -7,14 +7,20 @@
     <File>D:/playground/monotest/Content/Fonts/Score.spritefont</File>
     <File>D:/playground/monotest/Content/Images/arrow.png</File>
     <File>D:/playground/monotest/Content/Images/blue.png</File>
+    <File>D:/playground/monotest/Content/Images/circle.png</File>
+    <File>D:/playground/monotest/Content/Images/diamond.png</File>
     <File>D:/playground/monotest/Content/Images/earth.png</File>
     <File>D:/playground/monotest/Content/Images/green.png</File>
     <File>D:/playground/monotest/Content/Images/red.png</File>
     <File>D:/playground/monotest/Content/Images/shuttle.png</File>
     <File>D:/playground/monotest/Content/Images/smiley.png</File>
+    <File>D:/playground/monotest/Content/Images/star.png</File>
     <File>D:/playground/monotest/Content/Images/stars.jpg</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
