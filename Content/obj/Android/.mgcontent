@@ -4,6 +4,7 @@
   <Platform>Android</Platform>
   <Config />
   <SourceFiles>
+    <File>D:/playground/monotest/Content/cat.png</File>
     <File>D:/playground/monotest/Content/Fonts/Score.spritefont</File>
     <File>D:/playground/monotest/Content/Images/arrow.png</File>
     <File>D:/playground/monotest/Content/Images/blue.png</File>
@@ -16,8 +17,13 @@
     <File>D:/playground/monotest/Content/Images/smiley.png</File>
     <File>D:/playground/monotest/Content/Images/star.png</File>
     <File>D:/playground/monotest/Content/Images/stars.jpg</File>
+    <File>D:/playground/monotest/Content/mouse.png</File>
+    <File>D:/playground/monotest/Content/tank.png</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
